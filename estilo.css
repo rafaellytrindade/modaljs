@@ -1,12 +1,14 @@
 body {
-    margin: 0;
+    margin: 1em;
     padding: 0;
-    font-family: Arial, sans-serif;
+    background: url(pexels-cottonbro-studio-5082554.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
   }
   
   header {
     display: flex;
-    background-color: #b833adec;
     text-align: center;
     padding: 20px;
     height: 100vh; 
@@ -18,23 +20,24 @@ body {
   h1 {
     margin-bottom: 10px;
     font-size: 4em;
-    color: #fceb00;
+    color: #006eff;
     font-weight: bold;
+    text-decoration: underline;
 
   }
   
   h2 {
-    font-size: 2.7em;
+    font-size: 2em;
     margin-top: 0;
     color: #050301;
-    text-transform: uppercase  ;
+    text-transform: uppercase;
   }
 
   h3 {
     margin-top: 0;
-    font-size: 2em;
-    color: #ffffff;
+    font-size: 1.7em;
+    color: #111761;
     font-style: italic;
-    text-transform: uppercase  ;
+    text-transform: uppercase;
   }
   
